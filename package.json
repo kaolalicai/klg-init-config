@@ -1,0 +1,45 @@
+{
+  "name": "klg-init-config",
+  "version": "1.2.0",
+  "description": "klg init boilerplate config",
+  "files": [
+    "index.js"
+  ],
+  "config": {
+    "boilerplate": {
+      "module": {
+        "package": "klg-boilerplate-module",
+        "description": "npm 库项目模板"
+      },
+      "model": {
+        "package": "klg-boilerplate-model",
+        "description": "mongoose model 模板 todo"
+      },
+      "project": {
+        "package": "klg-boilerplate-project",
+        "description": "JavaScript 后端项目模板 todo"
+      },
+      "project-ts": {
+        "package": "klg-boilerplate-project-ts",
+        "description": "Typescript 后端项目模板 todo"
+      },
+      "admin": {
+        "package": "klg-boilerplate-admin",
+        "description": "管理后台项目模板 todo"
+      }
+    }
+  },
+  "homepage": "https://github.com/kaolalicai/klg-init-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaolalicai/klg-init-config.git"
+  },
+  "keywords": [
+    "klg",
+    "klg-init"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "nick"
+}

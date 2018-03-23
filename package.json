@@ -1,6 +1,6 @@
 {
   "name": "klg-init-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "klg init boilerplate config",
   "files": [
     "index.js"

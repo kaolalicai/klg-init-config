@@ -12,8 +12,8 @@
         "description": "npm 库项目模板"
       },
       "model": {
-        "package": "klg-boilerplate-model",
-        "description": "mongoose model 模板 todo"
+        "package": "klg-boilerplate-mongo-model",
+        "description": "mongoose model 模板"
       },
       "project": {
         "package": "klg-boilerplate-project",

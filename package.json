@@ -21,7 +21,7 @@
       },
       "project-ts": {
         "package": "klg-boilerplate-project-ts",
-        "description": "Typescript 后端项目模板 todo"
+        "description": "Typescript 后端项目模板"
       },
       "admin": {
         "package": "klg-boilerplate-admin",

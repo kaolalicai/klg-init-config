@@ -23,6 +23,10 @@
         "package": "klg-boilerplate-project-ts",
         "description": "Typescript 后端项目模板"
       },
+      "nest": {
+        "package": "klg-nest-starter",
+        "description": "Nest Typescript 后端项目模板"
+      },
       "admin": {
         "package": "klg-boilerplate-admin",
         "description": "管理后台项目模板 todo"
